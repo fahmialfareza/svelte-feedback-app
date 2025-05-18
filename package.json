@@ -27,5 +27,9 @@
   "dependencies": {
     "sirv-cli": "^2.0.0",
     "uuid": "^9.0.0"
+  },
+  "volta": {
+    "node": "18.16.0",
+    "pnpm": "8.6.0"
   }
 }
